@@ -1,0 +1,99 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RenderItem with item data 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#ffffff",
+      "flex": 1,
+      "flexDirection": "row",
+      "marginVertical": 1,
+      "opacity": 1,
+      "paddingHorizontal": 20,
+      "paddingVertical": 10,
+    }
+  }
+>
+  <Image
+    source={
+      Object {
+        "uri": "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
+      }
+    }
+    style={
+      Object {
+        "borderRadius": 25,
+        "height": 50,
+        "marginRight": 20,
+        "width": 50,
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "fontSize": 20,
+      }
+    }
+  />
+</View>
+`;
+
+exports[`RenderItem with item empty object  1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#ffffff",
+      "flex": 1,
+      "flexDirection": "row",
+      "marginVertical": 1,
+      "opacity": 1,
+      "paddingHorizontal": 20,
+      "paddingVertical": 10,
+    }
+  }
+>
+  <Image
+    source={
+      Object {
+        "uri": "undefined",
+      }
+    }
+    style={
+      Object {
+        "borderRadius": 25,
+        "height": 50,
+        "marginRight": 20,
+        "width": 50,
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "fontSize": 20,
+      }
+    }
+  />
+</View>
+`;

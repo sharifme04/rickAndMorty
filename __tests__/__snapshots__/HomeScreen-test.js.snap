@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HomeScreen 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <TextInput
+    allowFontScaling={true}
+    onChangeText={[Function]}
+    placeholder="Please search here"
+    rejectResponderTermination={true}
+    style={
+      Object {
+        "borderColor": "gray",
+        "borderRadius": 10,
+        "borderWidth": 1,
+        "height": 40,
+        "margin": 20,
+        "textAlign": "center",
+      }
+    }
+    underlineColorAndroid="transparent"
+    value=""
+  />
+  <ActivityIndicator
+    animating={true}
+    color="#f4511e"
+    hidesWhenStopped={true}
+    size="large"
+  />
+</RCTSafeAreaView>
+`;
+
+exports[`HomeScreen empty result  1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <TextInput
+    allowFontScaling={true}
+    onChangeText={[Function]}
+    placeholder="Please search here"
+    rejectResponderTermination={true}
+    style={
+      Object {
+        "borderColor": "gray",
+        "borderRadius": 10,
+        "borderWidth": 1,
+        "height": 40,
+        "margin": 20,
+        "textAlign": "center",
+      }
+    }
+    underlineColorAndroid="transparent"
+    value=""
+  />
+  <ActivityIndicator
+    animating={true}
+    color="#f4511e"
+    hidesWhenStopped={true}
+    size="large"
+  />
+</RCTSafeAreaView>
+`;
+
+exports[`HomeScreen with result 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <TextInput
+    allowFontScaling={true}
+    onChangeText={[Function]}
+    placeholder="Please search here"
+    rejectResponderTermination={true}
+    style={
+      Object {
+        "borderColor": "gray",
+        "borderRadius": 10,
+        "borderWidth": 1,
+        "height": 40,
+        "margin": 20,
+        "textAlign": "center",
+      }
+    }
+    underlineColorAndroid="transparent"
+    value=""
+  />
+  <ActivityIndicator
+    animating={true}
+    color="#f4511e"
+    hidesWhenStopped={true}
+    size="large"
+  />
+</RCTSafeAreaView>
+`;

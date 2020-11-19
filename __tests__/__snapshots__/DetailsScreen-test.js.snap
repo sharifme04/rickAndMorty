@@ -1,0 +1,304 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DetailsScreen 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <RCTScrollView>
+      <View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "flex": 1,
+              "justifyContent": "center",
+              "marginBottom": 40,
+              "marginTop": 25,
+            }
+          }
+        >
+          <View>
+            <ActivityIndicator
+              animating={true}
+              color="#f4511e"
+              hidesWhenStopped={true}
+              size="large"
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flex": 1,
+                "justifyContent": "center",
+                "marginBottom": 10,
+                "marginTop": 60,
+                "paddingHorizontal": 24,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#444",
+                  "fontSize": 18,
+                  "fontWeight": "400",
+                  "marginVertical": 1,
+                  "padding": 5,
+                  "textAlign": "center",
+                }
+              }
+            >
+              Gender: 
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "#444",
+                  "fontSize": 18,
+                  "fontWeight": "400",
+                  "marginVertical": 1,
+                  "padding": 5,
+                  "textAlign": "center",
+                }
+              }
+            >
+              Species: 
+            </Text>
+            <View>
+              <Text
+                style={
+                  Object {
+                    "color": "#444",
+                    "fontSize": 18,
+                    "fontWeight": "400",
+                    "marginVertical": 1,
+                    "padding": 5,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                Episode: 
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+    </RCTScrollView>
+  </View>
+</RCTSafeAreaView>
+`;
+
+exports[`DetailsScreen with details data 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <RCTScrollView>
+      <View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "flex": 1,
+              "justifyContent": "center",
+              "marginBottom": 40,
+              "marginTop": 25,
+            }
+          }
+        >
+          <View>
+            <ActivityIndicator
+              animating={true}
+              color="#f4511e"
+              hidesWhenStopped={true}
+              size="large"
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flex": 1,
+                "justifyContent": "center",
+                "marginBottom": 10,
+                "marginTop": 60,
+                "paddingHorizontal": 24,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#444",
+                  "fontSize": 18,
+                  "fontWeight": "400",
+                  "marginVertical": 1,
+                  "padding": 5,
+                  "textAlign": "center",
+                }
+              }
+            >
+              Gender: 
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "#444",
+                  "fontSize": 18,
+                  "fontWeight": "400",
+                  "marginVertical": 1,
+                  "padding": 5,
+                  "textAlign": "center",
+                }
+              }
+            >
+              Species: 
+            </Text>
+            <View>
+              <Text
+                style={
+                  Object {
+                    "color": "#444",
+                    "fontSize": 18,
+                    "fontWeight": "400",
+                    "marginVertical": 1,
+                    "padding": 5,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                Episode: 
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+    </RCTScrollView>
+  </View>
+</RCTSafeAreaView>
+`;
+
+exports[`DetailsScreen with details empty object  1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <RCTScrollView>
+      <View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "flex": 1,
+              "justifyContent": "center",
+              "marginBottom": 40,
+              "marginTop": 25,
+            }
+          }
+        >
+          <View>
+            <ActivityIndicator
+              animating={true}
+              color="#f4511e"
+              hidesWhenStopped={true}
+              size="large"
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flex": 1,
+                "justifyContent": "center",
+                "marginBottom": 10,
+                "marginTop": 60,
+                "paddingHorizontal": 24,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#444",
+                  "fontSize": 18,
+                  "fontWeight": "400",
+                  "marginVertical": 1,
+                  "padding": 5,
+                  "textAlign": "center",
+                }
+              }
+            >
+              Gender: 
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "#444",
+                  "fontSize": 18,
+                  "fontWeight": "400",
+                  "marginVertical": 1,
+                  "padding": 5,
+                  "textAlign": "center",
+                }
+              }
+            >
+              Species: 
+            </Text>
+            <View>
+              <Text
+                style={
+                  Object {
+                    "color": "#444",
+                    "fontSize": 18,
+                    "fontWeight": "400",
+                    "marginVertical": 1,
+                    "padding": 5,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                Episode: 
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+    </RCTScrollView>
+  </View>
+</RCTSafeAreaView>
+`;
